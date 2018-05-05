@@ -6,10 +6,10 @@ url: "https://arfest.github.io"
 
 # Delete the lines you don't need
 # about 5 elements are recomended
+blog_url: "/projects"
 github_username:  arfesta
 google_plus_username: adamfesta
 linkedin_username: adamfesta
-blog_url: "/projects"
 email: arfesta@gmail.com
 
 
