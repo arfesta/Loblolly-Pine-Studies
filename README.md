@@ -1,4 +1,4 @@
-## Adam Festa - PhD projects
+## *Adam R. Festa*
 
 The studies included below were conducted at North Carolina State University as a part of completing my PhD in Functional Genomics & Forestry.  The general focus of these projects is on genetic improvment of loblolly pine.
 
