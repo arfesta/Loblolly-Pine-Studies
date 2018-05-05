@@ -6,3 +6,4 @@ The studies included on this page are cofsued on the improvment of loblolly-pine
 
 #### [Assessment of Differential Expression 3-month old Loblolly Pine Seedlings](https://arfesta.github.io/RNAseq-DE-analysis/)
 
+#### [SimBreeder - R package for breeding strategy simulation](https://arfesta.github.io/SimBreeder/)
