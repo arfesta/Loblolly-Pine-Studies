@@ -1,36 +1,10 @@
-## Welcome to GitHub Pages
+## Loblolly Pine Studies
 
-You can use the [editor on GitHub](https://github.com/arfesta/Loblolly-Pine-Studies/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+The studies included on this page are cofsued on the improvment of loblolly-pine.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### [Alternative Approaches to Loblolly Pine Breeding Value Prediction](https://arfesta.github.io/Breeding-Value-Prediction/)
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/arfesta/Loblolly-Pine-Studies/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+### [Assessment of Differential Expression 3-month old Loblolly Pine Seedlings](https://arfesta.github.io/RNAseq-DE-analysis/)
 
 ### Support or Contact
 
